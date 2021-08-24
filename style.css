@@ -16,7 +16,7 @@ body {
   border: 2px solid black;
   width: 100%;
   height: 3072px;
-  background-image: url("/brickPattern.svg");
+  background-image: url("./brickPattern.svg");
   /*  grid-template-columns: fit-content (8.33%) fit-content (8.33%) 1fr;
   grid-template-columns: fit-content (8.33%) fit-content (8.33%) 1fr;*/
   /*background-image: url(/SVGs/PolygonMainBack.svg);*/
@@ -97,7 +97,7 @@ body {
   width: 100%;
   height: 80%;
   background-color: white;
-  background-image: url(/fernanda.svg);
+  background-image: url(./fernanda.svg);
   background-size: 80%;
   background-position-x: 20%;
   background-position-y: 0%;
@@ -173,7 +173,7 @@ body {
     border: 2px solid black;
     width: 100%;
     height: 3072px;
-    background-image: url("/brickPattern.svg");
+    background-image: url("./brickPattern.svg");
   }
   .mainPlatformStart {
     grid-column: 1 / 12 line;
@@ -246,7 +246,7 @@ body {
     width: 100%;
     height: 80%;
     background-color: white;
-    background-image: url("/fernanda.svg");
+    background-image: url("./fernanda.svg");
 
 
   }
@@ -299,7 +299,7 @@ body {
     border: 2px solid black;
     width: 100%;
     height: 3072px;
-    background-image: url("/brickPattern.svg");
+    background-image: url("./brickPattern.svg");
   }
   .mainPlatformStart {
     grid-column: 1 / 12 line;
@@ -372,7 +372,7 @@ body {
     width: 100%;
     height: 80%;
     background-color: white;
-    background-image: url(/fernanda.svg);
+    background-image: url(.fernanda.svg);
     background-size: 80%;
     background-position-x: 20%;
     background-position-y: 0%;
@@ -495,7 +495,7 @@ body {
     border-radius: 5%;
 
 
-    background-image: url(/fernanda.svg);
+    background-image: url(./fernanda.svg);
     background-size: 80%;
     background-position-x: 20%;
     background-position-y: 0%;
@@ -599,7 +599,7 @@ body {
     border: 2px solid black;
     width: 100%;
     height: 3072px;
-    background-image: url("/brickPattern.svg");
+    background-image: url("./brickPattern.svg");
   }
   .mainPlatformStart {
     grid-column: 1 / 12 line;
@@ -671,7 +671,7 @@ body {
     border-radius: 5%;
     width: 100%;
     height: 80%;
-    background-image: url("/fernanda.svg");
+    background-image: url("./fernanda.svg");
 
    
   }
@@ -788,7 +788,7 @@ body {
     border-radius: 5%;
     width: 100%;
     height: 80%;
-    background-image: url("/fernanda.svg");
+    background-image: url("./fernanda.svg");
 
    
   }
@@ -891,7 +891,7 @@ body {
     border: 2px solid black;
     width: 100%;
     height: 3072px;
-    background-image: url("/brickPattern.svg");
+    background-image: url("./brickPattern.svg");
   }
   .mainPlatformStart {
     grid-column: 1 / 12 line;
@@ -963,7 +963,7 @@ body {
     border-radius: 5%;
     width: 100%;
     height: 80%;
-    background-image: url("/fernanda.svg");
+    background-image: url("./fernanda.svg");
 
    
   }
