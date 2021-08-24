@@ -410,7 +410,7 @@ body {
     font-size: 0.4em;
   }
 }
-@media only screen and (min-width: 360px) {
+@media only screen and (min-width: 200px) {
   /*android*/
   body {
     background-color: white;
